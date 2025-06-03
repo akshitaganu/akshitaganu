@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 **Languages**: Python, SQL, R  
 **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels  
 **Tools**: Jupyter, VS Code, Git, Excel, Tableau, Power BI  
