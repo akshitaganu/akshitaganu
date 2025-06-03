@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!, I'm Akshita, a Data Enthusiast 👋🏼:</h1>
+<h1 align="center">Hello World!, I'm Akshita, a Data Enthusiast👋🏼:</h1>
 
 <p align="center">
   🎓 Data Science & Big Data Analytics | 🧠 Insight-Driven Analyst | 🌱 Always Learning
