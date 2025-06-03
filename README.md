@@ -1,4 +1,4 @@
-<h1 align="center">Hello World!, I'm Akshita, a Data Enthusiast👋🏼:</h1>
+<h1 align="center">Hello World!, I'm Akshita, a Data Enthusiast👋🏼: </h1>
 
 <p align="center">
   🎓 Data Science & Big Data Analytics | 🧠 Insight-Driven Analyst | 🌱 Always Learning
@@ -20,14 +20,5 @@
 **Tools**: Jupyter, VS Code, Git, Excel, Tableau, Power BI  
 **Databases**: MySQL, PostgreSQL, SQLite  
 **Others**: Machine Learning, EDA, Data Cleaning, Feature Engineering
-
+ 
 ---
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://www.linkedin.com/in/akshitaganu)  
-📧 akshitaganu@email.com  
-
----
-
-⭐ _Always open to collaboration and exciting opportunities in Data Science & Analytics._
