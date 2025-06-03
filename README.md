@@ -25,7 +25,7 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](www.linkedin.com/in/akshitaganu)  
+[![LinkedIn](https://www.linkedin.com/in/akshitaganu)  
 📧 akshitaganu@email.com  
 
 ---
