@@ -34,7 +34,7 @@
 <a href="https://www.r-studio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="R Studio" width="40" height="40"/> </a> &nbsp; 
 <a href="https://www.tableau.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/></a> &nbsp;
 <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/></a> &nbsp;
-<a href="https://www.alteryx.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Alteryx_logo_%282019%29.svg" alt="Alteryx" width="40" height="40"/></a> &nbsp;
+<a href="https://www.alteryx.com/" target="_blank"><img src="https://seeklogo.com/images/A/alteryx-logo-DF7C5B0C2C-seeklogo.com.png" alt="Alteryx" width="40" height="40"/></a> &nbsp;
  
 </div>
 
