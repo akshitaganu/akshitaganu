@@ -24,17 +24,37 @@
  
 ## Languages and Tools
 
-<div>
- 
-<a href="https://www.python.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.mysql.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a> &nbsp;
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp;
-<a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/> </a> &nbsp;
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a> &nbsp; 
-<a href="https://www.r-studio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="R Studio" width="40" height="40"/> </a> &nbsp; 
-<a href="https://www.tableau.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/></a> &nbsp;
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/></a> &nbsp;
-<a href="https://www.alteryx.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Alteryx_logo_%282019%29.svg" alt="Alteryx" width="40" height="40"/></a> &nbsp;
- 
+<style>
+  .tool-icons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+  }
+
+  .tool-icons a img {
+    width: 40px;
+    height: 40px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .tool-icons a:hover img {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+</style>
+
+<div class="tool-icons">
+  <a href="https://www.python.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas"/></a>
+  <a href="https://www.r-studio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="R Studio"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI"/></a>
+  <a href="https://www.alteryx.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Alteryx_logo_%282019%29.svg" alt="Alteryx"/></a>
 </div>
+
 
