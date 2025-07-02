@@ -7,7 +7,7 @@
 
 <br>
 
-## About Me
+##About Me
 
 <div>
  
@@ -27,8 +27,8 @@
 ## Languages and Tools
 
 <div>
+ 
 <a href="https://www.python.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> &nbsp;
-
 <a href="https://www.mysql.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a> &nbsp;
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp;
 <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/> </a> &nbsp;
