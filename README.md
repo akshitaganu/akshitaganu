@@ -7,13 +7,13 @@
 
 <br>
 
-##About Me
+## About Me
 
 <div>
  
-* I am a Data Science Enthusiast with MSc degree in Data Science Ans Big Data Analytics, Passionate about solving real-world problems through data.
+* I am a Data Science Enthusiast with MSc degree in Data Science And Big Data Analytics, Passionate about solving real-world problems through data.
 
-* I am skilled in `SQL`, `machine learning`, and `python`, with a proven track record of delivering actionable insights through data analysis. My hands-on experience in data visualization allows me to effectively translate large amounts of data and information into compelling visualizations for technical and non-technical stakeholders. 
+* I am skilled in `SQL`, `machine learning`, and `python`, with a proven track record of delivering actionable insights through data analysis. My hands-on experience in data visualization with tools like `Tableau` and `Power BI` allows me to effectively translate large amounts of data and information into compelling visualizations for technical and non-technical stakeholders. 
  
 * I've worked on a variety of projects that involve `predictive modeling`, `image classification`, and `data-driven decision-making`. When I'm not working, you can find me learning about new technologies, exploring nature, and reading novels.
  
