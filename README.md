@@ -1,5 +1,3 @@
-<img align="left" height="220px" src="https://github.com/akshitaganu/akshitaganu/blob/main/Images/Capture.jpg" alt="image" />
-
 <h1 align="center">Hi 👋, I'm Akshita Ganu</h1>
 <h3 align="center">A passionate "Data Science" Learner!!</h3>
 
